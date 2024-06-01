@@ -78,7 +78,7 @@ const UserTable = () => {
       <Table responsive bordered hover className="user-table">
         <thead className="table-dark">
           <tr>
-            <th>ID :</th>
+            <th>ID</th>
             <th>Name</th>
             <th>Email</th>
             <th>Phone</th>
